@@ -4,7 +4,7 @@ Atualmente moro na zona sul de São Paulo.
 
 Tenho 19 anos.
 
-Experiência profissional de 2 Freelas Hoton e Vistoria Online.
+Experiência profissional de 2 Freelas: Hoton e Vistoria Online.
 ## 
 Estudante de Análise e Desenvolvimento de Sistemas - Centro Universitário SENAC SP.
 ## 
