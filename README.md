@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**jgabrielsl/jgabrielsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📝 Sobre mim
+Atualmente moro na zona sul de São Paulo.
 
-Here are some ideas to get you started:
+Tenho 19 anos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experiência profissional de 2 Freelas Hoton e Vistoria Online.
+## 
+Estudante de Análise e Desenvolvimento de Sistemas - Centro Universitário SENAC SP.
+## 
+Conhecimentos adquiridos por meio de cursos da Alura, Documentações, Rocketseat e faculdade.
+##
+
+
+
+
+## 👨‍💻 Tecnologias
+Java | MySQL | JavaScript | HTML | CSS | NodeJS | ReactJS | VueJS | SpringBoot | MAVEN
+
