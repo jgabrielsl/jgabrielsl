@@ -17,3 +17,10 @@ Conhecimentos adquiridos por meio de cursos da Alura, Documentações, Rocketsea
 ## 👨‍💻 Tecnologias
 Java | MySQL | JavaScript | HTML | CSS | NodeJS | ReactJS | VueJS | SpringBoot | MAVEN
 
+
+## 🔗 Redes Sociais
+
+
+[![linkedin](https://img.shields.io/badge/linkedin-FFF?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/joaoluccaa)
+[![linkedin](https://img.shields.io/badge/instagram-FFF?style=for-the-badge&logo=instagram&logoColor=purp)](https://www.instagram.com/joao.luccaa)
+[![linkedin](https://img.shields.io/badge/gmail-FFF?style=for-the-badge&logo=gmail&logoColor=red)](mailTo:jg.delucca@gmail.com)
