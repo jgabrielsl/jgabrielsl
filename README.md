@@ -7,6 +7,3 @@
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jgabrielsl&layout=compact&count_private=true)
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=jgabrielsl&count_private=true&show_icons=true)
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=jgabrielsl&hide_border=true)
